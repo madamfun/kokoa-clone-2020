@@ -1,0 +1,9 @@
+.nav__list {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px 200px;
+}
+
+.nav__btn:first-child {
+  border-bottom: 2px solid;
+}

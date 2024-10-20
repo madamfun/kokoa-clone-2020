@@ -1,0 +1,28 @@
+@import "/reset.css";
+@import "";
+@import "";
+@import "";
+@import "";
+
+/* component  */
+@import "/component/main-header.css";
+@import "/component/nav.css";
+@import "";
+
+/* screen  */
+@import "/screen/main-screen.css";
+@import "";
+@import "";
+
+.text-deco {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+body {
+  background-color: #f6f6f4;
+  height: 1000vh;
+}
+
+.opacity-text {
+  opacity: 0.5;
+}
